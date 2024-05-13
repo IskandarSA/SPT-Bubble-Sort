@@ -1,7 +1,7 @@
 
 public class Main {
 	public static void main(String[] a) {
-		int[] array = {3, 6, 2, 11, 432, 111, 44, 555};
+		int[] array = {3, 6, 5, 11, 432, 111, 44, 665};
 		
 		bubbleSort(array);
 		
